@@ -1,0 +1,3 @@
+A first experience with API.
+A query the API to find the duration (in minutes) of the journey between two sations.
+The moment.js library makes enables a more flexible calculation of the duration.
